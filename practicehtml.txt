@@ -1,0 +1,23 @@
+<!doctype html>
+<html style="background-color:#ed975f">
+<head>
+<title>Bandit The Cat Webpage</title>
+</head>
+<body style="font-size:16pt;">
+<h1 style"text-align:center; color:white;">&hearts;Bandit The Cat Webpage&hearts;</h1>
+<p style="text-align:center;">This webpage was created to get you interested about Bandit's life and all of the crazy things he has done in the time he has been living.</p>
+<<center><h2 style="text-align:left-side; color:red:">The Crazy Orange Cat</h2>
+<img src="https://i.pinimg.com/originals/32/3c/ce/323ccee4599f06ea60eb7b193032a36b.jpg" alt="Bandit" width="500" height="300">
+<hr>
+<h2 style="text-align:left-side; color:red:">The Scary opponent</h2>
+<img src="https://www.thedogword.com/application/files/5415/5244/3248/Vizsla9.jpg" alt="Bandit" width="500" height="300">
+</center>
+<ul>
+     <li>1.Bandit The Cat Was <strong> The Bravest Orange Cat</strong>.</li>
+     <li>2.Bandit The Cat<em> Runs Away</em> From The Scary Dog.</li>
+     <li>3.Bandit The Cat Does <em>Some Crazy Things</em> In The House.</li>
+</ul>
+
+</html>
+
+
